@@ -1,0 +1,26 @@
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.exe
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.deps.json
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.runtimeconfig.json
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.runtimeconfig.dev.json
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.dll
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.pdb
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.csprojAssemblyReference.cache
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.AssemblyInfoInputs.cache
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.AssemblyInfo.cs
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.csproj.CoreCompileInputs.cache
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.dll
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.pdb
+C:\Users\bhz_ema\source\repos\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.genruntimeconfig.cache
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.exe
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.deps.json
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.runtimeconfig.json
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.runtimeconfig.dev.json
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.dll
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\bin\Debug\netcoreapp3.1\Indovina il numero.pdb
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.csprojAssemblyReference.cache
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.AssemblyInfoInputs.cache
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.AssemblyInfo.cs
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.csproj.CoreCompileInputs.cache
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.dll
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.pdb
+E:\Scuola\Informatica\Compiti\19-09-2020 Indovina il numero (C#)\Indovina il numero\Indovina il numero\obj\Debug\netcoreapp3.1\Indovina il numero.genruntimeconfig.cache
